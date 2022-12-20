@@ -1,0 +1,40 @@
+//for loops
+
+for (let i = 0; i <= 5; i++) {
+
+ console.log("Number" + i);
+ 
+}
+
+//for in 
+
+let colour= ["red", "blue","green"];
+
+for (let key in colour) {
+
+console.log(colour[key]);
+
+}
+
+//for of
+
+let colour= ["red", "blue","green"]; 
+
+for (let colou of colour ) {
+
+console.log(colou: + colour);
+}
+
+difference between window and documents
+
+  *window objects working to web
+  *windows in side dom,bom elements
+  
+  
+  Documents
+  *Html files
+  *meth,methoed
+  *title
+  *URL
+  *etc...
+  
